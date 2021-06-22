@@ -1,0 +1,36 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.list-group {
+  font-weight: 400;
+}
+
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+  font-weight: 300;
+}
+
+.carousel {
+  max-width: 800px;
+  margin: 0 auto;
+}
